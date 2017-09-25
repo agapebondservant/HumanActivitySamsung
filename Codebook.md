@@ -16,6 +16,18 @@ Frequency-Based Sensors for Y dimension (Frequency BodyAcc Mean - Y, Frequency B
 
 Frequency-Based Sensors for Z dimension (Frequency BodyAcc Mean - Z, Frequency BodyAcc Standard Deviation -Z, etc)
 
+Total Acceleration Vector for X dimension
+
+Total Acceleration Vector for Y dimension
+
+Total Acceleration Vector for Z dimension
+
+Angular Velocity for X dimension
+
+Angular Velocity for Y dimension
+
+Angular Velocity for Z dimension
+
 Full List of time and frequency based sensors:
 
 Time BodyAcc Mean-XYZ  
@@ -57,15 +69,3 @@ Time BodyAccMean
 Time BodyAccJerkMean  
 Time BodyGyroMean  
 Time BodyGyroJerkMean  
-
-Total Acceleration Vector for X dimension
-
-Total Acceleration Vector for Y dimension
-
-Total Acceleration Vector for Z dimension
-
-Angular Velocity for X dimension
-
-Angular Velocity for Y dimension
-
-Angular Velocity for Z dimension
