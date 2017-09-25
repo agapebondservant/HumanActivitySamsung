@@ -18,8 +18,8 @@ Frequency-Based Sensors for Z dimension (Frequency BodyAcc Mean - Z, Frequency B
 
 Full List of time and frequency based sensors:
 
-Time BodyAcc Mean-XYZ
-Time BodyAcc Standard Deviation-XYZ
+Time BodyAcc Mean-XYZ  
+Time BodyAcc Standard Deviation-XYZ  
 Time GravityAcc Mean-XYZ
 Time GravityAcc StandardDeviation-XYZ
 Time BodyAccJerk Mean-XYZ
